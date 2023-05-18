@@ -103,7 +103,7 @@ sing = "sang singing sing"
 nlp_practice = nlp(sing)
 print([word.lemma_ for word in nlp_practice])
 
-'''Output: ['sing', 'singe', 'sing'] '''
+'''Output: ['sing', 'sing', 'sing'] '''
 
 # Why is this useful? An immediate use case is in machine learning, specifically
 # text classification. Lemmatising the text prior to, for example, creating a
