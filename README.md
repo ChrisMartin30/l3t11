@@ -8,3 +8,5 @@ interpretation will be incorrect; the reader is lured into a parse that turns ou
 and see how a Python NLP library with the English language model can cope with them.
 
 The library chosen was [spaCy](https://spacy.io).
+
+It is also available on my dockerhub [here](https://hub.docker.com/repository/docker/martinchris30/l3t11/general).
